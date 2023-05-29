@@ -1,12 +1,12 @@
 {
   "amount":"8",
-  "mods":["Pixelmon-1.16.5-9.1.3-universal.jar","CustomNPCs-1.16.5.20220515.jar","DiagonalFences-v1.1.1-1.16.5.jar","cfm-7.0.0pre22-1.16.3.jar","mcw-fences-1.0.7-mc1.16.5forge.jar","mcw-lights-1.0.5-mc1.16.5forge.jar","PuzzlesLib-v1.0.15-1.16.5-Forge.jar","TXU.jar"],
-  "Pixelmon-1.16.5-9.1.3-universal.jar":"https://dl.reforged.gg/3XwWH4e",
-  "CustomNPCs-1.16.5.20220515.jar":"https://www.curseforge.com/api/v1/mods/221826/files/3791072/download",
-  "DiagonalFences-v1.1.1-1.16.5.jar":"https://www.curseforge.com/api/v1/mods/458048/files/3364147/download",
-  "cfm-7.0.0pre22-1.16.3.jar":"https://www.curseforge.com/api/v1/mods/55438/files/3346467/download",
-  "mcw-fences-1.0.7-mc1.16.5forge.jar":"https://www.curseforge.com/api/v1/mods/453925/files/4203536/download",
-  "mcw-lights-1.0.5-mc1.16.5forge.jar":"https://www.curseforge.com/api/v1/mods/502372/files/4358252/download",
-  "PuzzlesLib-v1.0.15-1.16.5-Forge.jar":"https://www.curseforge.com/api/v1/mods/495476/files/3517499/download",
-  "TXU.jar":"https://github.com/Jung2Soft/txu-pokemon-launcher/raw/main/mods/TXU.jar?download"
+  "mods":[
+    {"name":"Pixelmon-1.16.5-9.1.3-universal.jar","link":"https://dl.reforged.gg/3XwWH4e"},
+    {"name":"CustomNPCs-1.16.5.20220515.jar","link":"https://www.curseforge.com/api/v1/mods/221826/files/3791072/download"},
+    {"name":"DiagonalFences-v1.1.1-1.16.5.jar","link":"https://www.curseforge.com/api/v1/mods/458048/files/3364147/download"},
+    {"name":"cfm-7.0.0pre22-1.16.3.jar":"https://www.curseforge.com/api/v1/mods/55438/files/3346467/download"},
+    {"name":"mcw-fences-1.0.7-mc1.16.5forge.jar","link":"https://www.curseforge.com/api/v1/mods/453925/files/4203536/download"},
+    {"name":"mcw-lights-1.0.5-mc1.16.5forge.jar","link":"https://www.curseforge.com/api/v1/mods/502372/files/4358252/download"},
+    {"name":"PuzzlesLib-v1.0.15-1.16.5-Forge.jar","link":"https://www.curseforge.com/api/v1/mods/495476/files/3517499/download"},
+    {"name":"TXU.jar","link":"https://github.com/Jung2Soft/txu-pokemon-launcher/raw/main/mods/TXU.jar?download"}]
 }
