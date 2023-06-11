@@ -1,4 +1,6 @@
 {
+  "server":"pokemon.txu.kro.kr",
+  "port":"3821",
   "amount":"8",
   "minecraft":"https://drive.google.com/u/1/uc?id=1FnnQ9iEwpe-ky38cwGR54mz3TGVSAXVI&export=download&confirm=t&uuid=7bcfb6e8-73e7-4262-a59b-25ece6ae05a3&at=AKKF8vx2dQU8qGFGPrHrGtjAgaoy:1685361172618",
   "mods":[
