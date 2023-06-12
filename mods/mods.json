@@ -1,9 +1,10 @@
 {
-  "resoursepack":"https://drive.google.com/u/1/uc?id=18SOefsMcJJdcfVNVC2caqOwsegDZqxTz&export=download&confirm=t&uuid=53010b51-c501-44a0-aca6-e2735c66736c&at=AKKF8vw7Pgmj8WO15VV5hwmEiujc:1686480028220",
+  "resourcepack":"https://drive.google.com/u/1/uc?id=18SOefsMcJJdcfVNVC2caqOwsegDZqxTz&export=download&confirm=t&uuid=53010b51-c501-44a0-aca6-e2735c66736c&at=AKKF8vw7Pgmj8WO15VV5hwmEiujc:1686480028220",
+  "rpversion":"1.0.0",
   "server":"pokemon.txu.kro.kr",
   "port":"3821",
-  "amount":"8",
   "minecraft":"https://drive.google.com/u/1/uc?id=1FnnQ9iEwpe-ky38cwGR54mz3TGVSAXVI&export=download&confirm=t&uuid=7bcfb6e8-73e7-4262-a59b-25ece6ae05a3&at=AKKF8vx2dQU8qGFGPrHrGtjAgaoy:1685361172618",
+  "amount":"8",
   "mods":[
     {"name":"Pixelmon-1.16.5-9.1.4-universal.jar","link":"https://dl.reforged.gg/3N2QR8D"},
     {"name":"CustomNPCs-1.16.5.20220515.jar","link":"https://www.curseforge.com/api/v1/mods/221826/files/3791072/download"},
