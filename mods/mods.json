@@ -1,8 +1,11 @@
 {
-  "resourcepack":"https://drive.google.com/u/1/uc?id=18SOefsMcJJdcfVNVC2caqOwsegDZqxTz&export=download&confirm=t&uuid=53010b51-c501-44a0-aca6-e2735c66736c&at=AKKF8vw7Pgmj8WO15VV5hwmEiujc:1686480028220",
-  "rpversion":"1.0.0",
   "server":"pokemon.txu.kro.kr",
   "port":"3821",
+  "resourcepack":"https://drive.google.com/u/1/uc?id=18SOefsMcJJdcfVNVC2caqOwsegDZqxTz&export=download&confirm=t&uuid=53010b51-c501-44a0-aca6-e2735c66736c&at=AKKF8vw7Pgmj8WO15VV5hwmEiujc:1686480028220",
+  "rpversion":"1.0.0",
+  "clientlink":"https://drive.google.com/u/1/uc?id=1AZ069LRcAvlM4zfG8mKrQOkBKDGGIOkW&export=download&confirm=t&uuid=dca91cbd-0b52-43f7-ae93-91eacda69317&at=AKKF8vzy8z3o5escdQxz5tyRXiJU:1686677769536",
+  "webviewlink":"https://drive.google.com/u/1/uc?id=1_qIkt1_jH6HoGyD5SiI2g1emM6Ge683s&export=download",
+  "clientversion":"1.0.0",
   "minecraft":"https://drive.google.com/u/1/uc?id=1FnnQ9iEwpe-ky38cwGR54mz3TGVSAXVI&export=download&confirm=t&uuid=7bcfb6e8-73e7-4262-a59b-25ece6ae05a3&at=AKKF8vx2dQU8qGFGPrHrGtjAgaoy:1685361172618",
   "amount":"8",
   "mods":[
