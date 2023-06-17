@@ -10,7 +10,7 @@
   "minecraft":"https://drive.google.com/u/1/uc?id=1FnnQ9iEwpe-ky38cwGR54mz3TGVSAXVI&export=download&confirm=t&uuid=7bcfb6e8-73e7-4262-a59b-25ece6ae05a3&at=AKKF8vx2dQU8qGFGPrHrGtjAgaoy:1685361172618",
   "amount":"10",
   "mods":[
-    {"name":"Pixelmon-1.16.5-9.1.4-universal.jar","link":"https://dl.reforged.gg/3N2QR8D"},
+    {"name":"Pixelmon-1.16.5-9.1.5-universal.jar","link":"https://dl.reforged.gg/3N9jdhp"},
     {"name":"CustomNPCs-1.16.5.20220515.jar","link":"https://www.curseforge.com/api/v1/mods/221826/files/3791072/download"},
     {"name":"DiagonalFences-v1.1.1-1.16.5.jar","link":"https://www.curseforge.com/api/v1/mods/458048/files/3364147/download"},
     {"name":"cfm-7.0.0pre22-1.16.3.jar","link":"https://www.curseforge.com/api/v1/mods/55438/files/3346467/download"},
@@ -21,6 +21,5 @@
     {"name":"cloth-config-4.16.91-forge.jar","link":"https://www.curseforge.com/api/v1/mods/348521/files/3972422/download"},
     {"name":"TXU2.jar","link":"https://github.com/Jung2Soft/txu-pokemon-launcher/raw/main/mods/TXU2.jar"}],
   "delete":[
-    {"name":"Pixelmon-1.16.5-9.1.3-universal.jar"},
-    {"name":"TXU.jar"}]
+    {"name":"Pixelmon-1.16.5-9.1.4-universal.jar"}]
 }
