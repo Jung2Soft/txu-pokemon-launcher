@@ -8,7 +8,7 @@
   "clientlink":"https://drive.google.com/u/1/uc?id=1AZ069LRcAvlM4zfG8mKrQOkBKDGGIOkW&export=download&confirm=t&uuid=dca91cbd-0b52-43f7-ae93-91eacda69317&at=AKKF8vzy8z3o5escdQxz5tyRXiJU:1686677769536",
   "webviewlink":"https://drive.google.com/u/1/uc?id=1_qIkt1_jH6HoGyD5SiI2g1emM6Ge683s&export=download",
   "minecraft":"https://drive.google.com/u/1/uc?id=1FnnQ9iEwpe-ky38cwGR54mz3TGVSAXVI&export=download&confirm=t&uuid=7bcfb6e8-73e7-4262-a59b-25ece6ae05a3&at=AKKF8vx2dQU8qGFGPrHrGtjAgaoy:1685361172618",
-  "amount":"10",
+  "amount":"11",
   "mods":[
     {"name":"Pixelmon-1.16.5-9.1.5-universal.jar","link":"https://dl.reforged.gg/3N9jdhp"},
     {"name":"CustomNPCs-1.16.5.20220515.jar","link":"https://www.curseforge.com/api/v1/mods/221826/files/3791072/download"},
@@ -19,7 +19,8 @@
     {"name":"PuzzlesLib-v1.0.15-1.16.5-Forge.jar","link":"https://www.curseforge.com/api/v1/mods/495476/files/3517499/download"},
     {"name":"voicechat-forge-1.16.5-2.4.10.jar","link":"https://www.curseforge.com/api/v1/mods/416089/files/4584346/download"},
     {"name":"cloth-config-4.16.91-forge.jar","link":"https://www.curseforge.com/api/v1/mods/348521/files/3972422/download"},
-    {"name":"TXU2.jar","link":"https://github.com/Jung2Soft/txu-pokemon-launcher/raw/main/mods/TXU2.jar"}],
+    {"name":"TXU2.jar","link":"https://github.com/Jung2Soft/txu-pokemon-launcher/raw/main/mods/TXU2.jar"},
+    {"name":"camera-1.16.5-1.0.14.jar","link":"https://www.curseforge.com/api/v1/mods/289310/files/3381163/download"}],
   "delete":[
     {"name":"Pixelmon-1.16.5-9.1.4-universal.jar"}]
 }
